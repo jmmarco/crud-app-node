@@ -1,0 +1,28 @@
+body {
+  background: #1d2a33 url('../images/back3.jpg') no-repeat;
+  background-size: cover;
+}
+
+.main {
+  padding-top: 120px;
+	color: #fff;
+	min-height: calc(100vh - 34px);
+}
+
+.avatar {
+  font-size: 2em;
+}
+
+img {
+  width: 30%;
+  height: auto;
+}
+
+#menu {
+  font-size: 1.8em;
+}
+
+.foot {
+  padding-bottom: 30px;
+  color: #fff
+}
